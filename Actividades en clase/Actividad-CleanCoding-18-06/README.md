@@ -8,11 +8,12 @@ usando tasas de cambio fijas.
 
 ## Nombre del Estudiante:
 **Eddy Castro**.
+
 ## 📁 Estructura del Proyecto
 
 ```
 
-moneda-conversor/
+Actividad-CleanCoding-18-06/
 │
 ├── data/
 │   └── tasas.js          
