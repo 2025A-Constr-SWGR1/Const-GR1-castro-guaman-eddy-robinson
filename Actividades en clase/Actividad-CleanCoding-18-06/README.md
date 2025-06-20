@@ -6,8 +6,9 @@
 Este aplicativo permite convertir entre monedas (USD, EUR, GBP)
 usando tasas de cambio fijas. 
 
-## Nombre del Estudiante:
+## Nombre de los Estudiantes:
 **Eddy Castro**.
+**Daniel Macias**.
 
 ## 📁 Estructura del Proyecto
 
