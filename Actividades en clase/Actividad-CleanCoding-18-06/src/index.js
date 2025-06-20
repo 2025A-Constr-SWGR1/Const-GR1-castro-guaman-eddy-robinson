@@ -1,5 +1,5 @@
-import { inicializarInterfaz } from './interfaz.js';
+import { inicializarInterfaz } from "./interfaz.js";
 
-document.addEventListener('DOMContentLoaded', () => {
-    inicializarInterfaz();
+document.addEventListener("DOMContentLoaded", () => {
+  inicializarInterfaz();
 });
