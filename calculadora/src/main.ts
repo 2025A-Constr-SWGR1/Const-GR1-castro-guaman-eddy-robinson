@@ -6,5 +6,5 @@ async function bootstrap() {
   await app.listen(process.env.PORT ?? 3000);
 }
 bootstrap()
-  .then(()=>console.warn('Servidor Levantado'))
-  .catch(()=>console.error('Hubo Errores'));
+  .then(() => console.warn('Servidor Levantado'))
+  .catch(() => console.error('Hubo Errores'));
